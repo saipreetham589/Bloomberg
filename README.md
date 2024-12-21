@@ -1,0 +1,1 @@
+In this project, I analyzed the relationship between Federal Reserve interest rate changes and S&P 500 index returns over the past decade. Using Python and advanced data analysis techniques, I hypothesized that changes in interest rates would have a measurable impact on stock market returns.
